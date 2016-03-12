@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<style>
+  /* Hide page by default */
+  html { display : none; }
+</style>
 <head>
 <title>Nwood || About me</title>
 <meta content='width=500' name='viewport'>
@@ -57,7 +61,7 @@
 					<p>Hey, my name is Nicholis Wood</p>
 					<p>
 					I'm an 17 year old that lives on
-						<a href='map/index.php' target='_blank'>Catalina Island</a>,
+						<a href='map/' target='_blank'>Catalina Island</a>,
 					off the coast of Long Beach, CA.
 					</p>
 					<p>
@@ -100,6 +104,13 @@
 		</div>
 	</div>
 <script type="text/javascript">
+if (self == top) {
+    // Everything checks out, show the page.
+    document.documentElement.style.display = 'block';
+  } else {
+    // Break out of the frame.
+    top.location = self.location;
+  }
 </script>
 </body>
 </html>

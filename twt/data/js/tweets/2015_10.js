@@ -3,7 +3,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tloc",
+      "name" : "CRLS",
       "screen_name" : "Dj_Trick",
       "indices" : [ 3, 12 ],
       "id_str" : "352879590",
@@ -90,11 +90,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 660128693172334592,
     "created_at" : "2015-10-30 16:18:39 +0000",
     "user" : {
-      "name" : "A.K.N.C",
+      "name" : "CRLS",
       "screen_name" : "Dj_Trick",
       "protected" : false,
       "id_str" : "352879590",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713263550173569024\/zLkLrYpA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720320367793872896\/8Gl-oKFv_normal.jpg",
       "id" : 352879590,
       "verified" : false
     }

@@ -71,7 +71,7 @@ Grailbird.data.tweets_2015_08 =
       "id" : 2802867446
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/636084372282609664\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/636084372282609664\/photo\/1",
       "indices" : [ 54, 76 ],
       "url" : "http:\/\/t.co\/50t6G0Wre2",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CNPTWv6VEAAFDo4.jpg",
@@ -243,7 +243,7 @@ Grailbird.data.tweets_2015_08 =
       "id" : 2802867446
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/628661150595465216\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/628661150595465216\/photo\/1",
       "indices" : [ 76, 98 ],
       "url" : "http:\/\/t.co\/MAKRLRCUph",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CLlz-mPVEAAFHBu.jpg",

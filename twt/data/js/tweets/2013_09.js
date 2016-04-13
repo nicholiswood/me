@@ -643,7 +643,7 @@ Grailbird.data.tweets_2013_09 =
   "id" : 381291028931555329,
   "in_reply_to_status_id" : 381287101225914369,
   "created_at" : "2013-09-21 05:37:20 +0000",
-  "in_reply_to_screen_name" : "Nicholiswood",
+  "in_reply_to_screen_name" : "nicholiswood",
   "in_reply_to_user_id_str" : "501362413",
   "user" : {
     "name" : "Nicholis Wood",
@@ -659,7 +659,7 @@ Grailbird.data.tweets_2013_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/381282551156846592\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/381282551156846592\/photo\/1",
       "indices" : [ 13, 35 ],
       "url" : "http:\/\/t.co\/tIyByBIpvI",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BUqWdcjCQAEGTzx.jpg",
@@ -711,7 +711,7 @@ Grailbird.data.tweets_2013_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/381282387511877633\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/381282387511877633\/photo\/1",
       "indices" : [ 21, 43 ],
       "url" : "http:\/\/t.co\/JNFedpn9qY",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BUqWT6pCMAAxgb0.jpg",
@@ -877,7 +877,7 @@ Grailbird.data.tweets_2013_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/380163369220599808\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/380163369220599808\/photo\/1",
       "indices" : [ 34, 56 ],
       "url" : "http:\/\/t.co\/RRySqiXJFq",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BUackezCQAAR2Vu.jpg",

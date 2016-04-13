@@ -179,7 +179,7 @@ Grailbird.data.tweets_2013_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/386352616612970496\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/386352616612970496\/photo\/1",
       "indices" : [ 6, 28 ],
       "url" : "http:\/\/t.co\/a6ubzlt4ES",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BVyZqGDCQAA515B.jpg",

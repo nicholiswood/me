@@ -4,7 +4,7 @@ Grailbird.data.tweets_2014_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/488775947831627776\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/488775947831627776\/photo\/1",
       "indices" : [ 0, 22 ],
       "url" : "http:\/\/t.co\/TUlJrZLw14",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bsh7ImvCIAAENlz.jpg",
@@ -56,7 +56,7 @@ Grailbird.data.tweets_2014_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/488775897118302208\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/488775897118302208\/photo\/1",
       "indices" : [ 0, 22 ],
       "url" : "http:\/\/t.co\/jRlvh57dMT",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bsh7FphCMAAXRRZ.jpg",
@@ -108,7 +108,7 @@ Grailbird.data.tweets_2014_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Nicholiswood\/status\/488775584986570752\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/488775584986570752\/photo\/1",
       "indices" : [ 0, 22 ],
       "url" : "http:\/\/t.co\/9RPdElhz85",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bsh6zeWCIAAZpVo.jpg",

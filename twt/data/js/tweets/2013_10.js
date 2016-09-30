@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2013_10 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -17,7 +17,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "390333612559962112",
   "text" : "RT @Bill_Nye_Tho__: there are teens who have unprotected sex, but have cases on their phones... damn i can't even",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -51,7 +51,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -62,7 +62,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "388743505230581760",
   "text" : "RT @DoryGetsRatchet: christmas is so close i can almost smell the mistletoe im not going to be kissed under",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -96,7 +96,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -116,7 +116,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "387444702066130944",
   "text" : "RT @Bill_Nye_Tho__: alrite who had their #FirstKiss at an observatory? RT if you did or you wish you did lol",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -153,7 +153,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -175,14 +175,14 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/386352616612970496\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/386352616612970496\/photo\/1",
       "indices" : [ 6, 28 ],
-      "url" : "http:\/\/t.co\/a6ubzlt4ES",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BVyZqGDCQAA515B.jpg",
+      "url" : "https:\/\/t.co\/a6ubzlt4ES",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/BVyZqGDCQAA515B.jpg",
       "id_str" : "386352616503918592",
       "id" : 386352616503918592,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BVyZqGDCQAA515B.jpg",
@@ -217,7 +217,7 @@ Grailbird.data.tweets_2013_10 =
   },
   "geo" : { },
   "id_str" : "386352616612970496",
-  "text" : "#wwjd http:\/\/t.co\/a6ubzlt4ES",
+  "text" : "#wwjd https:\/\/t.co\/a6ubzlt4ES",
   "id" : 386352616612970496,
   "created_at" : "2013-10-05 04:50:16 +0000",
   "user" : {
@@ -230,7 +230,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -252,7 +252,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -269,7 +269,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "385611897187205122",
   "text" : "RT @Bill_Nye_Tho__: S\/O to penises for NOT bleeding once a month lol",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -303,7 +303,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -320,7 +320,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "385230104156049408",
   "text" : "RT @Bill_Nye_Tho__: imma buy ur girl some aluminum foil underwear so that she can keep my dinner warm",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

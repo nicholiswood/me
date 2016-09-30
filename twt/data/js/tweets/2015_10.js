@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2015_10 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CRLS",
@@ -10,10 +10,10 @@ Grailbird.data.tweets_2015_10 =
       "id" : 352879590
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Dj_Trick\/status\/660128693172334592\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Dj_Trick\/status\/660128693172334592\/photo\/1",
       "indices" : [ 31, 54 ],
       "url" : "https:\/\/t.co\/gAl3Avaaxe",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CSk_fDmUYAA4MsS.jpg",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/CSk_fDmUYAA4MsS.jpg",
       "id_str" : "660128623161008128",
       "id" : 660128623161008128,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CSk_fDmUYAA4MsS.jpg",
@@ -47,14 +47,14 @@ Grailbird.data.tweets_2015_10 =
   "id_str" : "660262946258288640",
   "text" : "RT @Dj_Trick: Made my day\uD83D\uDE02\uD83D\uDE2D\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02 https:\/\/t.co\/gAl3Avaaxe",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Dj_Trick\/status\/660128693172334592\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Dj_Trick\/status\/660128693172334592\/photo\/1",
         "indices" : [ 17, 40 ],
         "url" : "https:\/\/t.co\/gAl3Avaaxe",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CSk_fDmUYAA4MsS.jpg",
+        "media_url" : "https:\/\/pbs.twimg.com\/media\/CSk_fDmUYAA4MsS.jpg",
         "id_str" : "660128623161008128",
         "id" : 660128623161008128,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CSk_fDmUYAA4MsS.jpg",
@@ -111,7 +111,7 @@ Grailbird.data.tweets_2015_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "SUBLIMINAL MSGS",
@@ -172,7 +172,7 @@ Grailbird.data.tweets_2015_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Justus Ramming",
@@ -195,7 +195,7 @@ Grailbird.data.tweets_2015_10 =
   "id_str" : "659069072949153792",
   "text" : "RT @JustusRamming: @BarackObama Can you write me a letter of rec?",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Barack Obama",
@@ -238,7 +238,7 @@ Grailbird.data.tweets_2015_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bitch Problems",
@@ -248,10 +248,10 @@ Grailbird.data.tweets_2015_10 =
       "id" : 148779151
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/WORLDSTAR\/status\/655427682805530624\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/WORLDSTAR\/status\/655427682805530624\/video\/1",
       "indices" : [ 47, 69 ],
-      "url" : "http:\/\/t.co\/HIobi6ElD6",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/655427654133248000\/pu\/img\/dVTSaNL4ikgYrVuQ.jpg",
+      "url" : "https:\/\/t.co\/HIobi6ElD6",
+      "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/655427654133248000\/pu\/img\/dVTSaNL4ikgYrVuQ.jpg",
       "id_str" : "655427654133248000",
       "id" : 655427654133248000,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/655427654133248000\/pu\/img\/dVTSaNL4ikgYrVuQ.jpg",
@@ -283,16 +283,16 @@ Grailbird.data.tweets_2015_10 =
   },
   "geo" : { },
   "id_str" : "655864926464966656",
-  "text" : "RT @teenagernotes: Hotline Bling by Sponge Bob http:\/\/t.co\/HIobi6ElD6",
+  "text" : "RT @teenagernotes: Hotline Bling by Sponge Bob https:\/\/t.co\/HIobi6ElD6",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/WORLDSTAR\/status\/655427682805530624\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/WORLDSTAR\/status\/655427682805530624\/video\/1",
         "indices" : [ 28, 50 ],
-        "url" : "http:\/\/t.co\/HIobi6ElD6",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/655427654133248000\/pu\/img\/dVTSaNL4ikgYrVuQ.jpg",
+        "url" : "https:\/\/t.co\/HIobi6ElD6",
+        "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/655427654133248000\/pu\/img\/dVTSaNL4ikgYrVuQ.jpg",
         "id_str" : "655427654133248000",
         "id" : 655427654133248000,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/655427654133248000\/pu\/img\/dVTSaNL4ikgYrVuQ.jpg",
@@ -324,7 +324,7 @@ Grailbird.data.tweets_2015_10 =
     },
     "geo" : { },
     "id_str" : "655814835695919104",
-    "text" : "Hotline Bling by Sponge Bob http:\/\/t.co\/HIobi6ElD6",
+    "text" : "Hotline Bling by Sponge Bob https:\/\/t.co\/HIobi6ElD6",
     "id" : 655814835695919104,
     "created_at" : "2015-10-18 18:36:55 +0000",
     "user" : {

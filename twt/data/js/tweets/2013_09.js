@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2013_09 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -17,7 +17,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "384058032016998401",
   "text" : "RT @Bill_Nye_Tho__: my dick's nickname is \"iOS7\" cause all these white girls can't wait for it to come",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -51,7 +51,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -68,7 +68,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "384022195732619264",
   "text" : "RT @Bill_Nye_Tho__: RT if u can do science with your dick",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -102,7 +102,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "383713722964770816",
   "text" : "RT @Bill_Nye_Tho__: bro are you Calcium Nitrogen Dysprosium Arsenic Sulfur? Because u actin like a CaNDy AsS",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -153,7 +153,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -170,7 +170,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "383392229907111936",
   "text" : "RT @Bill_Nye_Tho__: if she gets a D in bio, don't give her the D in bed",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -204,7 +204,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -221,7 +221,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "383392018510004224",
   "text" : "RT @Bill_Nye_Tho__: CACTUS ARE ON POINT THO",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -255,7 +255,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -266,7 +266,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "382985303473922049",
   "text" : "RT @DoryGetsRatchet: true friendship is when you walk into their house and your wifi connects automatically",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -300,7 +300,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -317,7 +317,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "382693749563731968",
   "text" : "RT @Bill_Nye_Tho__: health tip: dont drink bleach",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -351,7 +351,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -373,7 +373,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -390,7 +390,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "382260080512475137",
   "text" : "RT @Bill_Nye_Tho__: when i die, bury me inside da observatory",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -424,7 +424,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -444,7 +444,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "381943932466102272",
   "text" : "RT @Bill_Nye_Tho__: two fish are in a tank. one turns to the other and asks \"hey nigga you know how to drive this thing?\" lmao #GOTJOKES",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -481,7 +481,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "381863685745938432",
   "text" : "RT @Bill_Nye_Tho__: who's the idiot that named them \"lab coats\" instead of \"pussy magnets\" smh dam",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -532,7 +532,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "_",
@@ -549,7 +549,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "381863636769062912",
   "text" : "RT @Great_Architect: IDGAF IF UR HUNGOVER FROM THE CLUB ALL U HOES NEEDA GET OUTTA BED RIGHT NOW AND TWERK YA ASS TO CHURCH Y'ALL NEED JESUS",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -583,7 +583,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -594,7 +594,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "381502302659440641",
   "text" : "RT @DoryGetsRatchet: RT if you're a strong independent black woman who don't need no man",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -628,7 +628,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -655,14 +655,14 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/381282551156846592\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/381282551156846592\/photo\/1",
       "indices" : [ 13, 35 ],
-      "url" : "http:\/\/t.co\/tIyByBIpvI",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BUqWdcjCQAEGTzx.jpg",
+      "url" : "https:\/\/t.co\/tIyByBIpvI",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/BUqWdcjCQAEGTzx.jpg",
       "id_str" : "381282551089741825",
       "id" : 381282551089741825,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BUqWdcjCQAEGTzx.jpg",
@@ -694,7 +694,7 @@ Grailbird.data.tweets_2013_09 =
   },
   "geo" : { },
   "id_str" : "381282551156846592",
-  "text" : "Ful ah swahg http:\/\/t.co\/tIyByBIpvI",
+  "text" : "Ful ah swahg https:\/\/t.co\/tIyByBIpvI",
   "id" : 381282551156846592,
   "created_at" : "2013-09-21 05:03:38 +0000",
   "user" : {
@@ -707,14 +707,14 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/381282387511877633\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/381282387511877633\/photo\/1",
       "indices" : [ 21, 43 ],
-      "url" : "http:\/\/t.co\/JNFedpn9qY",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BUqWT6pCMAAxgb0.jpg",
+      "url" : "https:\/\/t.co\/JNFedpn9qY",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/BUqWT6pCMAAxgb0.jpg",
       "id_str" : "381282387369275392",
       "id" : 381282387369275392,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BUqWT6pCMAAxgb0.jpg",
@@ -746,7 +746,7 @@ Grailbird.data.tweets_2013_09 =
   },
   "geo" : { },
   "id_str" : "381282387511877633",
-  "text" : "I'm cooler than you. http:\/\/t.co\/JNFedpn9qY",
+  "text" : "I'm cooler than you. https:\/\/t.co\/JNFedpn9qY",
   "id" : 381282387511877633,
   "created_at" : "2013-09-21 05:02:59 +0000",
   "user" : {
@@ -759,7 +759,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -779,7 +779,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "381263019537227777",
   "text" : "RT @Bill_Nye_Tho__: you ever feel awkward at a party so you just pretend that youre calculating something on your graphing calculator #Turn\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -816,7 +816,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -836,7 +836,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "380892172678991872",
   "text" : "RT @Bill_Nye_Tho__: i aint tryna brag to y'all but i really can spell \"BOOBS\" and a couple other words on my calculator tbh #TurnUp",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -873,14 +873,14 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/380163369220599808\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/380163369220599808\/photo\/1",
       "indices" : [ 34, 56 ],
-      "url" : "http:\/\/t.co\/RRySqiXJFq",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BUackezCQAAR2Vu.jpg",
+      "url" : "https:\/\/t.co\/RRySqiXJFq",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/BUackezCQAAR2Vu.jpg",
       "id_str" : "380163369115729920",
       "id" : 380163369115729920,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BUackezCQAAR2Vu.jpg",
@@ -912,7 +912,7 @@ Grailbird.data.tweets_2013_09 =
   },
   "geo" : { },
   "id_str" : "380163369220599808",
-  "text" : "Oh mang. GTA V is off the hizzle. http:\/\/t.co\/RRySqiXJFq",
+  "text" : "Oh mang. GTA V is off the hizzle. https:\/\/t.co\/RRySqiXJFq",
   "id" : 380163369220599808,
   "created_at" : "2013-09-18 02:56:24 +0000",
   "user" : {
@@ -925,7 +925,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -936,7 +936,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "379490929616236544",
   "text" : "RT @DoryGetsRatchet: when miley cyrus is naked &amp; licks a hammer it\u2019s \u201Cart\u201D and \u201Cmusic\u201D.. but when I do it, I\u2019m \u201Cwasted\u201D and \u201Chave to leave \u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -970,7 +970,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -987,7 +987,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "379490652997689344",
   "text" : "RT @Bill_Nye_Tho__: fake friends are like shadows in how theyre around during ur brightest hours, but disappear during your darkest moments\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -1041,7 +1041,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "378573192232579072",
   "text" : "RT @Bill_Nye_Tho__: stuck in the friendzone and can't get out? Learn some more science and pretty soon she'll have her \"ION\" you lmao #wylin",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1078,7 +1078,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1089,7 +1089,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "378412382050979840",
   "text" : "RT @DoryGetsRatchet: Night before school: I wanna look attractive tomorrow\n\nmorning of school: nvm",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

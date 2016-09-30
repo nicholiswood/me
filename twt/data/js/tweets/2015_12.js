@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2015_12 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nigga Commentary",
@@ -14,7 +14,7 @@ Grailbird.data.tweets_2015_12 =
     "urls" : [ {
       "indices" : [ 31, 54 ],
       "url" : "https:\/\/t.co\/lozqNYz5VY",
-      "expanded_url" : "http:\/\/vine.co\/v\/ebmYDvlglAD",
+      "expanded_url" : "https:\/\/vine.co\/v\/ebmYDvlglAD",
       "display_url" : "vine.co\/v\/ebmYDvlglAD"
     } ]
   },
@@ -22,7 +22,7 @@ Grailbird.data.tweets_2015_12 =
   "id_str" : "681159893215096832",
   "text" : "RT @NiggaCommentary: Bryan \uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\nhttps:\/\/t.co\/lozqNYz5VY",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -30,7 +30,7 @@ Grailbird.data.tweets_2015_12 =
       "urls" : [ {
         "indices" : [ 10, 33 ],
         "url" : "https:\/\/t.co\/lozqNYz5VY",
-        "expanded_url" : "http:\/\/vine.co\/v\/ebmYDvlglAD",
+        "expanded_url" : "https:\/\/vine.co\/v\/ebmYDvlglAD",
         "display_url" : "vine.co\/v\/ebmYDvlglAD"
       } ]
     },
@@ -61,7 +61,7 @@ Grailbird.data.tweets_2015_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

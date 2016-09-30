@@ -1,13 +1,13 @@
 Grailbird.data.tweets_2014_01 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/427886743283458048\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/427886743283458048\/photo\/1",
       "indices" : [ 0, 22 ],
-      "url" : "http:\/\/t.co\/V9lCOFgQlZ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BfAoudICUAA2cKp.jpg",
+      "url" : "https:\/\/t.co\/V9lCOFgQlZ",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/BfAoudICUAA2cKp.jpg",
       "id_str" : "427886743157624832",
       "id" : 427886743157624832,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BfAoudICUAA2cKp.jpg",
@@ -39,7 +39,7 @@ Grailbird.data.tweets_2014_01 =
   },
   "geo" : { },
   "id_str" : "427886743283458048",
-  "text" : "http:\/\/t.co\/V9lCOFgQlZ",
+  "text" : "https:\/\/t.co\/V9lCOFgQlZ",
   "id" : 427886743283458048,
   "created_at" : "2014-01-27 19:32:04 +0000",
   "user" : {
@@ -52,7 +52,7 @@ Grailbird.data.tweets_2014_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sonie",
@@ -71,21 +71,21 @@ Grailbird.data.tweets_2014_01 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 108, 130 ],
-      "url" : "http:\/\/t.co\/cvsKCO2gbT",
-      "expanded_url" : "http:\/\/Twitch.tv\/towls",
+      "url" : "https:\/\/t.co\/cvsKCO2gbT",
+      "expanded_url" : "https:\/\/Twitch.tv\/towls",
       "display_url" : "Twitch.tv\/towls"
     }, {
       "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/YsrMHaSzKr",
-      "expanded_url" : "http:\/\/twitch.tv\/Unluckky",
+      "url" : "https:\/\/t.co\/YsrMHaSzKr",
+      "expanded_url" : "https:\/\/twitch.tv\/Unluckky",
       "display_url" : "twitch.tv\/Unluckky"
     } ]
   },
   "geo" : { },
   "id_str" : "427885575543087105",
-  "text" : "RT @Wowluckky: @SonieTV @Methodeu Me and my brother are new to the streaming industry and you check us out? http:\/\/t.co\/cvsKCO2gbT http:\/\/t\u2026",
+  "text" : "RT @Wowluckky: @SonieTV @Methodeu Me and my brother are new to the streaming industry and you check us out? https:\/\/t.co\/cvsKCO2gbT https:\/\/t\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Sonie",
@@ -104,20 +104,20 @@ Grailbird.data.tweets_2014_01 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 93, 115 ],
-        "url" : "http:\/\/t.co\/cvsKCO2gbT",
-        "expanded_url" : "http:\/\/Twitch.tv\/towls",
+        "url" : "https:\/\/t.co\/cvsKCO2gbT",
+        "expanded_url" : "https:\/\/Twitch.tv\/towls",
         "display_url" : "Twitch.tv\/towls"
       }, {
         "indices" : [ 116, 138 ],
-        "url" : "http:\/\/t.co\/YsrMHaSzKr",
-        "expanded_url" : "http:\/\/twitch.tv\/Unluckky",
+        "url" : "https:\/\/t.co\/YsrMHaSzKr",
+        "expanded_url" : "https:\/\/twitch.tv\/Unluckky",
         "display_url" : "twitch.tv\/Unluckky"
       } ]
     },
     "geo" : { },
     "id_str" : "427397017304694784",
     "in_reply_to_user_id" : 838664556,
-    "text" : "@SonieTV @Methodeu Me and my brother are new to the streaming industry and you check us out? http:\/\/t.co\/cvsKCO2gbT http:\/\/t.co\/YsrMHaSzKr",
+    "text" : "@SonieTV @Methodeu Me and my brother are new to the streaming industry and you check us out? https:\/\/t.co\/cvsKCO2gbT https:\/\/t.co\/YsrMHaSzKr",
     "id" : 427397017304694784,
     "created_at" : "2014-01-26 11:06:04 +0000",
     "in_reply_to_screen_name" : "SonieTV",
@@ -144,14 +144,14 @@ Grailbird.data.tweets_2014_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/423620295820201984\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/423620295820201984\/photo\/1",
       "indices" : [ 7, 29 ],
-      "url" : "http:\/\/t.co\/mZ9HmMGBNM",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BeEAahrCYAAaRL1.jpg",
+      "url" : "https:\/\/t.co\/mZ9HmMGBNM",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/BeEAahrCYAAaRL1.jpg",
       "id_str" : "423620295665016832",
       "id" : 423620295665016832,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BeEAahrCYAAaRL1.jpg",
@@ -183,7 +183,7 @@ Grailbird.data.tweets_2014_01 =
   },
   "geo" : { },
   "id_str" : "423620295820201984",
-  "text" : "Swerve http:\/\/t.co\/mZ9HmMGBNM",
+  "text" : "Swerve https:\/\/t.co\/mZ9HmMGBNM",
   "id" : 423620295820201984,
   "created_at" : "2014-01-16 00:58:43 +0000",
   "user" : {
@@ -196,14 +196,14 @@ Grailbird.data.tweets_2014_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/422897234787569664\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/422897234787569664\/photo\/1",
       "indices" : [ 58, 80 ],
-      "url" : "http:\/\/t.co\/PN2AGBF5pk",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bd5uy1ZCAAAe5jG.jpg",
+      "url" : "https:\/\/t.co\/PN2AGBF5pk",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/Bd5uy1ZCAAAe5jG.jpg",
       "id_str" : "422897234623987712",
       "id" : 422897234623987712,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bd5uy1ZCAAAe5jG.jpg",
@@ -235,7 +235,7 @@ Grailbird.data.tweets_2014_01 =
   },
   "geo" : { },
   "id_str" : "422897234787569664",
-  "text" : "Aye, I got sum new high tech g-cards if u wanna buy them. http:\/\/t.co\/PN2AGBF5pk",
+  "text" : "Aye, I got sum new high tech g-cards if u wanna buy them. https:\/\/t.co\/PN2AGBF5pk",
   "id" : 422897234787569664,
   "created_at" : "2014-01-14 01:05:32 +0000",
   "user" : {

@@ -1,7 +1,7 @@
 
 /*
 // Copyright 2012 Twitter, Inc
-// http://www.apache.org/licenses/LICENSE-2.0
+// https://www.apache.org/licenses/LICENSE-2.0
 
 // TwitterCLDR (JavaScript) v2.1.0
 // Authors:     Cameron Dutro [@camertron]

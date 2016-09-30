@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2016_02 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Barry Ritholtz",
@@ -10,10 +10,10 @@ Grailbird.data.tweets_2016_02 =
       "id" : 49753604
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ritholtz\/status\/700767190421639168\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/ritholtz\/status\/700767190421639168\/photo\/1",
       "indices" : [ 34, 57 ],
       "url" : "https:\/\/t.co\/YfRhr90TqC",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CbmgC7SUYAEtslB.jpg",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/CbmgC7SUYAEtslB.jpg",
       "id_str" : "700767189167529985",
       "id" : 700767189167529985,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CbmgC7SUYAEtslB.jpg",
@@ -47,14 +47,14 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "700803559571337216",
   "text" : "RT @ritholtz: Historic Election ! https:\/\/t.co\/YfRhr90TqC",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ritholtz\/status\/700767190421639168\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ritholtz\/status\/700767190421639168\/photo\/1",
         "indices" : [ 20, 43 ],
         "url" : "https:\/\/t.co\/YfRhr90TqC",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CbmgC7SUYAEtslB.jpg",
+        "media_url" : "https:\/\/pbs.twimg.com\/media\/CbmgC7SUYAEtslB.jpg",
         "id_str" : "700767189167529985",
         "id" : 700767189167529985,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CbmgC7SUYAEtslB.jpg",

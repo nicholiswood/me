@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2013_11 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -17,7 +17,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "405603878164369408",
   "text" : "RT @Bill_Nye_Tho__: ALL I WANT FOR MY BIRTHDAY IS A BIG BOOTY LAB ASSISTANT",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -51,7 +51,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BILL_NYE_THO",
@@ -68,7 +68,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "401507736380137473",
   "text" : "RT @Bill_Nye_Tho__: ur birth control works on gorillas but dont give it to em or theyll go raw all night &amp; other animals would never get sl\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -102,14 +102,14 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/400510158339448832\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/400510158339448832\/photo\/1",
       "indices" : [ 8, 30 ],
-      "url" : "http:\/\/t.co\/GwxMSBQhT5",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BY7l3ezCAAAxryj.jpg",
+      "url" : "https:\/\/t.co\/GwxMSBQhT5",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/BY7l3ezCAAAxryj.jpg",
       "id_str" : "400510158205222912",
       "id" : 400510158205222912,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BY7l3ezCAAAxryj.jpg",
@@ -141,7 +141,7 @@ Grailbird.data.tweets_2013_11 =
   },
   "geo" : { },
   "id_str" : "400510158339448832",
-  "text" : "Okay... http:\/\/t.co\/GwxMSBQhT5",
+  "text" : "Okay... https:\/\/t.co\/GwxMSBQhT5",
   "id" : 400510158339448832,
   "created_at" : "2013-11-13 06:27:17 +0000",
   "user" : {
@@ -154,21 +154,21 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 0, 22 ],
-      "url" : "http:\/\/t.co\/geuuq2bG20",
-      "expanded_url" : "http:\/\/youtu.be\/G5KxZ5Lc_YA",
+      "url" : "https:\/\/t.co\/geuuq2bG20",
+      "expanded_url" : "https:\/\/youtu.be\/G5KxZ5Lc_YA",
       "display_url" : "youtu.be\/G5KxZ5Lc_YA"
     } ]
   },
   "geo" : { },
   "id_str" : "398323409353834496",
-  "text" : "http:\/\/t.co\/geuuq2bG20   Watch now and il love you forever.",
+  "text" : "https:\/\/t.co\/geuuq2bG20   Watch now and il love you forever.",
   "id" : 398323409353834496,
   "created_at" : "2013-11-07 05:37:55 +0000",
   "user" : {
@@ -181,7 +181,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -203,7 +203,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -214,7 +214,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "398277122461925377",
   "text" : "RT @DoryGetsRatchet: i got kicked outta 24 Hour Fitness for demanding to battle their gym leader",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

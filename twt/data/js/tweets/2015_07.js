@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2015_07 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "JoshOG",
@@ -10,10 +10,10 @@ Grailbird.data.tweets_2015_07 =
       "id" : 2313002094
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/JoshOG\/status\/616154357487280128\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/JoshOG\/status\/616154357487280128\/photo\/1",
       "indices" : [ 125, 140 ],
-      "url" : "http:\/\/t.co\/o8t28AHggI",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CI0FHvoWoAAv8E_.png",
+      "url" : "https:\/\/t.co\/o8t28AHggI",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/CI0FHvoWoAAv8E_.png",
       "id_str" : "616154354622570496",
       "id" : 616154354622570496,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CI0FHvoWoAAv8E_.png",
@@ -45,16 +45,16 @@ Grailbird.data.tweets_2015_07 =
   },
   "geo" : { },
   "id_str" : "616202944644411392",
-  "text" : "RT @JoshOG: This months give away is here! Re tweet , favorite , and make sure you are following to win! Good Luck Have Fun! http:\/\/t.co\/o8\u2026",
+  "text" : "RT @JoshOG: This months give away is here! Re tweet , favorite , and make sure you are following to win! Good Luck Have Fun! https:\/\/t.co\/o8\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/JoshOG\/status\/616154357487280128\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/JoshOG\/status\/616154357487280128\/photo\/1",
         "indices" : [ 113, 135 ],
-        "url" : "http:\/\/t.co\/o8t28AHggI",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CI0FHvoWoAAv8E_.png",
+        "url" : "https:\/\/t.co\/o8t28AHggI",
+        "media_url" : "https:\/\/pbs.twimg.com\/media\/CI0FHvoWoAAv8E_.png",
         "id_str" : "616154354622570496",
         "id" : 616154354622570496,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CI0FHvoWoAAv8E_.png",
@@ -86,7 +86,7 @@ Grailbird.data.tweets_2015_07 =
     },
     "geo" : { },
     "id_str" : "616154357487280128",
-    "text" : "This months give away is here! Re tweet , favorite , and make sure you are following to win! Good Luck Have Fun! http:\/\/t.co\/o8t28AHggI",
+    "text" : "This months give away is here! Re tweet , favorite , and make sure you are following to win! Good Luck Have Fun! https:\/\/t.co\/o8t28AHggI",
     "id" : 616154357487280128,
     "created_at" : "2015-07-01 08:00:21 +0000",
     "user" : {

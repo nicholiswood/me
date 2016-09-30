@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2015_11 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25,7 +25,7 @@ Grailbird.data.tweets_2015_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "NO CHILL HUMOR",
@@ -47,7 +47,7 @@ Grailbird.data.tweets_2015_11 =
   "id_str" : "667543375092912130",
   "text" : "RT @NoChillHumor_: A brief summary of 2015 https:\/\/t.co\/G1ynqjjOx0",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -86,7 +86,7 @@ Grailbird.data.tweets_2015_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Turnt Aliens",
@@ -96,10 +96,10 @@ Grailbird.data.tweets_2015_11 =
       "id" : 327010453
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/lilmayylmao\/status\/658413960576790528\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/lilmayylmao\/status\/658413960576790528\/video\/1",
       "indices" : [ 47, 70 ],
       "url" : "https:\/\/t.co\/lAr1XwYqGM",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/658413853961687040\/pu\/img\/F3Yy6an0TaMxvEJX.jpg",
+      "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/658413853961687040\/pu\/img\/F3Yy6an0TaMxvEJX.jpg",
       "id_str" : "658413853961687040",
       "id" : 658413853961687040,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/658413853961687040\/pu\/img\/F3Yy6an0TaMxvEJX.jpg",
@@ -133,14 +133,14 @@ Grailbird.data.tweets_2015_11 =
   "id_str" : "666808676003373056",
   "text" : "RT @soturntaliens: AYY LMAO, GOT THE TATTOO\uD83D\uDD25\n\n https:\/\/t.co\/lAr1XwYqGM",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/lilmayylmao\/status\/658413960576790528\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/lilmayylmao\/status\/658413960576790528\/video\/1",
         "indices" : [ 28, 51 ],
         "url" : "https:\/\/t.co\/lAr1XwYqGM",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/658413853961687040\/pu\/img\/F3Yy6an0TaMxvEJX.jpg",
+        "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/658413853961687040\/pu\/img\/F3Yy6an0TaMxvEJX.jpg",
         "id_str" : "658413853961687040",
         "id" : 658413853961687040,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/658413853961687040\/pu\/img\/F3Yy6an0TaMxvEJX.jpg",
@@ -197,7 +197,7 @@ Grailbird.data.tweets_2015_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Fill Werrell",
@@ -219,7 +219,7 @@ Grailbird.data.tweets_2015_11 =
   "id_str" : "662119065134104580",
   "text" : "RT @FillWerrell: That moment you realize Bernie Sanders has your vote. https:\/\/t.co\/O8z5j9CVxP",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -258,7 +258,7 @@ Grailbird.data.tweets_2015_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Frank Denis",
@@ -280,7 +280,7 @@ Grailbird.data.tweets_2015_11 =
   "id_str" : "661556252778979329",
   "text" : "RT @jedisct1: Cats aren't as useless as everyone says https:\/\/t.co\/wXVPUc0YMn",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

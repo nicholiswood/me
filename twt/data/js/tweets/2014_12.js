@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2014_12 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CreeperHost",
@@ -10,10 +10,10 @@ Grailbird.data.tweets_2014_12 =
       "id" : 1418524326
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/CreeperHost\/status\/547765133905510401\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/CreeperHost\/status\/547765133905510401\/photo\/1",
       "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/sArVvLlOA4",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B5oNfHoCEAAKBaz.png",
+      "url" : "https:\/\/t.co\/sArVvLlOA4",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/B5oNfHoCEAAKBaz.png",
       "id_str" : "547765132952997888",
       "id" : 547765132952997888,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B5oNfHoCEAAKBaz.png",
@@ -43,23 +43,23 @@ Grailbird.data.tweets_2014_12 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 112, 134 ],
-      "url" : "http:\/\/t.co\/XCGdwwJyl6",
-      "expanded_url" : "http:\/\/Creeper.Host\/offers",
+      "url" : "https:\/\/t.co\/XCGdwwJyl6",
+      "expanded_url" : "https:\/\/Creeper.Host\/offers",
       "display_url" : "Creeper.Host\/offers"
     } ]
   },
   "geo" : { },
   "id_str" : "547834223214612480",
-  "text" : "RT @CreeperHost: We have 25x 2GB VPS' to give away free for life! All you have to do is retweet! Happy Holidays http:\/\/t.co\/XCGdwwJyl6 http\u2026",
+  "text" : "RT @CreeperHost: We have 25x 2GB VPS' to give away free for life! All you have to do is retweet! Happy Holidays https:\/\/t.co\/XCGdwwJyl6 http\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/CreeperHost\/status\/547765133905510401\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/CreeperHost\/status\/547765133905510401\/photo\/1",
         "indices" : [ 118, 140 ],
-        "url" : "http:\/\/t.co\/sArVvLlOA4",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B5oNfHoCEAAKBaz.png",
+        "url" : "https:\/\/t.co\/sArVvLlOA4",
+        "media_url" : "https:\/\/pbs.twimg.com\/media\/B5oNfHoCEAAKBaz.png",
         "id_str" : "547765132952997888",
         "id" : 547765132952997888,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B5oNfHoCEAAKBaz.png",
@@ -89,14 +89,14 @@ Grailbird.data.tweets_2014_12 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 95, 117 ],
-        "url" : "http:\/\/t.co\/XCGdwwJyl6",
-        "expanded_url" : "http:\/\/Creeper.Host\/offers",
+        "url" : "https:\/\/t.co\/XCGdwwJyl6",
+        "expanded_url" : "https:\/\/Creeper.Host\/offers",
         "display_url" : "Creeper.Host\/offers"
       } ]
     },
     "geo" : { },
     "id_str" : "547765133905510401",
-    "text" : "We have 25x 2GB VPS' to give away free for life! All you have to do is retweet! Happy Holidays http:\/\/t.co\/XCGdwwJyl6 http:\/\/t.co\/sArVvLlOA4",
+    "text" : "We have 25x 2GB VPS' to give away free for life! All you have to do is retweet! Happy Holidays https:\/\/t.co\/XCGdwwJyl6 https:\/\/t.co\/sArVvLlOA4",
     "id" : 547765133905510401,
     "created_at" : "2014-12-24 14:45:59 +0000",
     "user" : {
@@ -121,7 +121,7 @@ Grailbird.data.tweets_2014_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pandora",
@@ -137,10 +137,10 @@ Grailbird.data.tweets_2014_12 =
       "id" : 515766653
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/pandora_radio\/status\/545926908278345728\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/pandora_radio\/status\/545926908278345728\/photo\/1",
       "indices" : [ 99, 121 ],
-      "url" : "http:\/\/t.co\/VrntZR6JCQ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B5OFoWZCYAENXQ1.jpg",
+      "url" : "https:\/\/t.co\/VrntZR6JCQ",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/B5OFoWZCYAENXQ1.jpg",
       "id_str" : "545926908093816833",
       "id" : 545926908093816833,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B5OFoWZCYAENXQ1.jpg",
@@ -175,9 +175,9 @@ Grailbird.data.tweets_2014_12 =
   },
   "geo" : { },
   "id_str" : "546071341837733888",
-  "text" : "RT @pandora_radio: Day 5: @Pebble a poppin' + Pandora One! RT for a chance to win #12DaysofPandora http:\/\/t.co\/VrntZR6JCQ",
+  "text" : "RT @pandora_radio: Day 5: @Pebble a poppin' + Pandora One! RT for a chance to win #12DaysofPandora https:\/\/t.co\/VrntZR6JCQ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/percolate.com\" rel=\"nofollow\"\u003EPercolate\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/percolate.com\" rel=\"nofollow\"\u003EPercolate\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Pebble",
@@ -187,10 +187,10 @@ Grailbird.data.tweets_2014_12 =
         "id" : 515766653
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/pandora_radio\/status\/545926908278345728\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/pandora_radio\/status\/545926908278345728\/photo\/1",
         "indices" : [ 80, 102 ],
-        "url" : "http:\/\/t.co\/VrntZR6JCQ",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B5OFoWZCYAENXQ1.jpg",
+        "url" : "https:\/\/t.co\/VrntZR6JCQ",
+        "media_url" : "https:\/\/pbs.twimg.com\/media\/B5OFoWZCYAENXQ1.jpg",
         "id_str" : "545926908093816833",
         "id" : 545926908093816833,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B5OFoWZCYAENXQ1.jpg",
@@ -225,7 +225,7 @@ Grailbird.data.tweets_2014_12 =
     },
     "geo" : { },
     "id_str" : "545926908278345728",
-    "text" : "Day 5: @Pebble a poppin' + Pandora One! RT for a chance to win #12DaysofPandora http:\/\/t.co\/VrntZR6JCQ",
+    "text" : "Day 5: @Pebble a poppin' + Pandora One! RT for a chance to win #12DaysofPandora https:\/\/t.co\/VrntZR6JCQ",
     "id" : 545926908278345728,
     "created_at" : "2014-12-19 13:01:32 +0000",
     "user" : {

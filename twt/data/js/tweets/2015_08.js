@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2015_08 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "WORLD STAR FANS",
@@ -13,14 +13,14 @@ Grailbird.data.tweets_2015_08 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 53, 75 ],
-      "url" : "http:\/\/t.co\/3OTYf2fe5n",
-      "expanded_url" : "http:\/\/vine.co\/v\/heW7uxEmgX1",
+      "url" : "https:\/\/t.co\/3OTYf2fe5n",
+      "expanded_url" : "https:\/\/vine.co\/v\/heW7uxEmgX1",
       "display_url" : "vine.co\/v\/heW7uxEmgX1"
     } ]
   },
   "geo" : { },
   "id_str" : "637332341044678656",
-  "text" : "RT @WorldStarFunny: When the pizza man at the door \uD83D\uDE02 http:\/\/t.co\/3OTYf2fe5n",
+  "text" : "RT @WorldStarFunny: When the pizza man at the door \uD83D\uDE02 https:\/\/t.co\/3OTYf2fe5n",
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
@@ -29,14 +29,14 @@ Grailbird.data.tweets_2015_08 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 33, 55 ],
-        "url" : "http:\/\/t.co\/3OTYf2fe5n",
-        "expanded_url" : "http:\/\/vine.co\/v\/heW7uxEmgX1",
+        "url" : "https:\/\/t.co\/3OTYf2fe5n",
+        "expanded_url" : "https:\/\/vine.co\/v\/heW7uxEmgX1",
         "display_url" : "vine.co\/v\/heW7uxEmgX1"
       } ]
     },
     "geo" : { },
     "id_str" : "637010962663370752",
-    "text" : "When the pizza man at the door \uD83D\uDE02 http:\/\/t.co\/3OTYf2fe5n",
+    "text" : "When the pizza man at the door \uD83D\uDE02 https:\/\/t.co\/3OTYf2fe5n",
     "id" : 637010962663370752,
     "created_at" : "2015-08-27 21:17:03 +0000",
     "user" : {
@@ -61,7 +61,7 @@ Grailbird.data.tweets_2015_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pixel Sorter",
@@ -71,10 +71,10 @@ Grailbird.data.tweets_2015_08 =
       "id" : 2802867446
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/636084372282609664\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/636084372282609664\/photo\/1",
       "indices" : [ 54, 76 ],
-      "url" : "http:\/\/t.co\/50t6G0Wre2",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNPTWv6VEAAFDo4.jpg",
+      "url" : "https:\/\/t.co\/50t6G0Wre2",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/CNPTWv6VEAAFDo4.jpg",
       "id_str" : "636084360161071104",
       "id" : 636084360161071104,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNPTWv6VEAAFDo4.jpg",
@@ -107,7 +107,7 @@ Grailbird.data.tweets_2015_08 =
   "geo" : { },
   "id_str" : "636084372282609664",
   "in_reply_to_user_id" : 2802867446,
-  "text" : "@pixelsorter cmd[middle 5 max 90 min 80 reverse true] http:\/\/t.co\/50t6G0Wre2",
+  "text" : "@pixelsorter cmd[middle 5 max 90 min 80 reverse true] https:\/\/t.co\/50t6G0Wre2",
   "id" : 636084372282609664,
   "created_at" : "2015-08-25 07:55:06 +0000",
   "in_reply_to_screen_name" : "pixelsorter",
@@ -122,7 +122,7 @@ Grailbird.data.tweets_2015_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Fill Werrell",
@@ -132,10 +132,10 @@ Grailbird.data.tweets_2015_08 =
       "id" : 386189099
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/FunnyVideoGame\/status\/635240085433159680\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/FunnyVideoGame\/status\/635240085433159680\/video\/1",
       "indices" : [ 44, 66 ],
-      "url" : "http:\/\/t.co\/KdIe3YJS3j",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/635239980072312832\/pu\/img\/8FuzeeT98Bhifaic.jpg",
+      "url" : "https:\/\/t.co\/KdIe3YJS3j",
+      "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/635239980072312832\/pu\/img\/8FuzeeT98Bhifaic.jpg",
       "id_str" : "635239980072312832",
       "id" : 635239980072312832,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/635239980072312832\/pu\/img\/8FuzeeT98Bhifaic.jpg",
@@ -167,16 +167,16 @@ Grailbird.data.tweets_2015_08 =
   },
   "geo" : { },
   "id_str" : "635885871770697728",
-  "text" : "RT @FillWerrell: This is FIFA in a nutshell http:\/\/t.co\/KdIe3YJS3j",
+  "text" : "RT @FillWerrell: This is FIFA in a nutshell https:\/\/t.co\/KdIe3YJS3j",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/FunnyVideoGame\/status\/635240085433159680\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/FunnyVideoGame\/status\/635240085433159680\/video\/1",
         "indices" : [ 27, 49 ],
-        "url" : "http:\/\/t.co\/KdIe3YJS3j",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/635239980072312832\/pu\/img\/8FuzeeT98Bhifaic.jpg",
+        "url" : "https:\/\/t.co\/KdIe3YJS3j",
+        "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/635239980072312832\/pu\/img\/8FuzeeT98Bhifaic.jpg",
         "id_str" : "635239980072312832",
         "id" : 635239980072312832,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/635239980072312832\/pu\/img\/8FuzeeT98Bhifaic.jpg",
@@ -208,7 +208,7 @@ Grailbird.data.tweets_2015_08 =
     },
     "geo" : { },
     "id_str" : "635655175617818624",
-    "text" : "This is FIFA in a nutshell http:\/\/t.co\/KdIe3YJS3j",
+    "text" : "This is FIFA in a nutshell https:\/\/t.co\/KdIe3YJS3j",
     "id" : 635655175617818624,
     "created_at" : "2015-08-24 03:29:38 +0000",
     "user" : {
@@ -233,7 +233,7 @@ Grailbird.data.tweets_2015_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pixel Sorter",
@@ -243,10 +243,10 @@ Grailbird.data.tweets_2015_08 =
       "id" : 2802867446
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nicholiswood\/status\/628661150595465216\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/nicholiswood\/status\/628661150595465216\/photo\/1",
       "indices" : [ 76, 98 ],
-      "url" : "http:\/\/t.co\/MAKRLRCUph",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CLlz-mPVEAAFHBu.jpg",
+      "url" : "https:\/\/t.co\/MAKRLRCUph",
+      "media_url" : "https:\/\/pbs.twimg.com\/media\/CLlz-mPVEAAFHBu.jpg",
       "id_str" : "628661142248820736",
       "id" : 628661142248820736,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CLlz-mPVEAAFHBu.jpg",
@@ -279,7 +279,7 @@ Grailbird.data.tweets_2015_08 =
   "geo" : { },
   "id_str" : "628661150595465216",
   "in_reply_to_user_id" : 2802867446,
-  "text" : "@pixelsorter cmd[vertical true max 80 min 10 smooth true method uniqueness] http:\/\/t.co\/MAKRLRCUph",
+  "text" : "@pixelsorter cmd[vertical true max 80 min 10 smooth true method uniqueness] https:\/\/t.co\/MAKRLRCUph",
   "id" : 628661150595465216,
   "created_at" : "2015-08-04 20:17:52 +0000",
   "in_reply_to_screen_name" : "pixelsorter",

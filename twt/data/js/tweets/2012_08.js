@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_08 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/friendsoverlay.com\/\" rel=\"nofollow\"\u003EMCFriendsOverlay\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/friendsoverlay.com\/\" rel=\"nofollow\"\u003EMCFriendsOverlay\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

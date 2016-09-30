@@ -1,5 +1,5 @@
 var user_details =  {
-  "expanded_url" : "http:\/\/nicholiswood.github.io\/me\/",
+  "expanded_url" : "https:\/\/nicholiswood.github.io\/me\/",
   "screen_name" : "nicholiswood",
   "location" : "moon",
   "url" : "https:\/\/t.co\/GRVy2R07Dz",

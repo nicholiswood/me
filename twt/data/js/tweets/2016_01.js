@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2016_01 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Turnt Alien",
@@ -22,7 +22,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "692205492450545667",
   "text" : "RT @TurntAlien: Ayy lmao Squidward lit \uD83D\uDD25\uD83D\uDD25 https:\/\/t.co\/8eogsBCwv5",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -61,7 +61,7 @@ Grailbird.data.tweets_2016_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CRAZY ANIMALS",
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "689710033685217280",
   "text" : "RT @CrazyAnimals_: When the drugs hit..  https:\/\/t.co\/iVPLQoVp9B",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -122,7 +122,7 @@ Grailbird.data.tweets_2016_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "FAST TASTY FOOD VIDS",
@@ -132,10 +132,10 @@ Grailbird.data.tweets_2016_01 =
       "id" : 3084779046
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/FastTastyFood\/status\/687721276677459969\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/FastTastyFood\/status\/687721276677459969\/video\/1",
       "indices" : [ 61, 84 ],
       "url" : "https:\/\/t.co\/QbbgjpxXci",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/687721192564850688\/pu\/img\/gvbnNCFQauQho5z9.jpg",
+      "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/687721192564850688\/pu\/img\/gvbnNCFQauQho5z9.jpg",
       "id_str" : "687721192564850688",
       "id" : 687721192564850688,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/687721192564850688\/pu\/img\/gvbnNCFQauQho5z9.jpg",
@@ -169,14 +169,14 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "689210142076751872",
   "text" : "RT @FastTastyFood: Chocolate chip Reese's cheesecake bars \uD83D\uDD25\uD83D\uDE0D https:\/\/t.co\/QbbgjpxXci",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/FastTastyFood\/status\/687721276677459969\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/FastTastyFood\/status\/687721276677459969\/video\/1",
         "indices" : [ 42, 65 ],
         "url" : "https:\/\/t.co\/QbbgjpxXci",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/687721192564850688\/pu\/img\/gvbnNCFQauQho5z9.jpg",
+        "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/687721192564850688\/pu\/img\/gvbnNCFQauQho5z9.jpg",
         "id_str" : "687721192564850688",
         "id" : 687721192564850688,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/687721192564850688\/pu\/img\/gvbnNCFQauQho5z9.jpg",
@@ -233,7 +233,7 @@ Grailbird.data.tweets_2016_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "SKRILLEX",
@@ -243,10 +243,10 @@ Grailbird.data.tweets_2016_01 =
       "id" : 18825961
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Skrillex\/status\/688616782245015552\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Skrillex\/status\/688616782245015552\/video\/1",
       "indices" : [ 20, 43 ],
       "url" : "https:\/\/t.co\/R48xfLfSld",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/688615937335934978\/pu\/img\/A73ED2RznezKDkZY.jpg",
+      "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/688615937335934978\/pu\/img\/A73ED2RznezKDkZY.jpg",
       "id_str" : "688615937335934978",
       "id" : 688615937335934978,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/688615937335934978\/pu\/img\/A73ED2RznezKDkZY.jpg",
@@ -280,14 +280,14 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "688787325153742848",
   "text" : "RT @Skrillex: \uD83D\uDD3B\uD83D\uDD3B\uD83D\uDD3B\uD83D\uDD3B\uD83D\uDD3B https:\/\/t.co\/R48xfLfSld",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Skrillex\/status\/688616782245015552\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Skrillex\/status\/688616782245015552\/video\/1",
         "indices" : [ 6, 29 ],
         "url" : "https:\/\/t.co\/R48xfLfSld",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/688615937335934978\/pu\/img\/A73ED2RznezKDkZY.jpg",
+        "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/688615937335934978\/pu\/img\/A73ED2RznezKDkZY.jpg",
         "id_str" : "688615937335934978",
         "id" : 688615937335934978,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/688615937335934978\/pu\/img\/A73ED2RznezKDkZY.jpg",
@@ -344,7 +344,7 @@ Grailbird.data.tweets_2016_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -369,7 +369,7 @@ Grailbird.data.tweets_2016_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Athlete Way Of Life",
@@ -379,10 +379,10 @@ Grailbird.data.tweets_2016_01 =
       "id" : 710126762500366336
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/AryanaLloyd\/status\/679862123816685568\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/AryanaLloyd\/status\/679862123816685568\/video\/1",
       "indices" : [ 33, 56 ],
       "url" : "https:\/\/t.co\/I3qkkguQWx",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/679861849286938624\/pu\/img\/bF59ApInXfFAAqyD.jpg",
+      "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/679861849286938624\/pu\/img\/bF59ApInXfFAAqyD.jpg",
       "id_str" : "679861849286938624",
       "id" : 679861849286938624,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/679861849286938624\/pu\/img\/bF59ApInXfFAAqyD.jpg",
@@ -416,14 +416,14 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "683373455111139328",
   "text" : "RT @AthWayOfLife: Dab on em \uD83D\uDE02\uD83D\uDE02\uD83D\uDC80\uD83D\uDC80\nhttps:\/\/t.co\/I3qkkguQWx",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/AryanaLloyd\/status\/679862123816685568\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/AryanaLloyd\/status\/679862123816685568\/video\/1",
         "indices" : [ 15, 38 ],
         "url" : "https:\/\/t.co\/I3qkkguQWx",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/679861849286938624\/pu\/img\/bF59ApInXfFAAqyD.jpg",
+        "media_url" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/679861849286938624\/pu\/img\/bF59ApInXfFAAqyD.jpg",
         "id_str" : "679861849286938624",
         "id" : 679861849286938624,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/679861849286938624\/pu\/img\/bF59ApInXfFAAqyD.jpg",
